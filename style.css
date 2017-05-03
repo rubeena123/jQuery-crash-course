@@ -17,3 +17,22 @@ header{
   margin: auto;
   padding: 10px;
 }
+.myclass{
+  color: white;
+  background: black;
+}
+#box{
+  background: grey;
+  color: white;
+  width: 500px;
+  height: 90px;
+  padding: 40px;
+  text-align: center;
+
+}
+#box2{
+  background: red;
+  height: 100px;
+  width: 100px;
+  position: relative;
+}
